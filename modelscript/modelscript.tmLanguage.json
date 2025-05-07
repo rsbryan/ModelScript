@@ -1,0 +1,95 @@
+{
+  "name": "ModelScript",
+  "scopeName": "source.modelscript",
+  "fileTypes": ["ms"],
+  "patterns": [
+    { "include": "#comments" },
+    { "include": "#keywords" },
+    { "include": "#strings" },
+    { "include": "#numbers" },
+    { "include": "#model-definition" },
+    { "include": "#property-assignment" }
+  ],
+  "repository": {
+    "comments": {
+      "patterns": [
+        {
+          "name": "comment.line.double-slash.modelscript",
+          "match": "//.*$"
+        },
+        {
+          "name": "comment.block.modelscript",
+          "begin": "/\\*",
+          "end": "\\*/"
+        }
+      ]
+    },
+    "keywords": {
+      "patterns": [
+        {
+          "name": "keyword.control.modelscript",
+          "match": "\\b(model|dataset|architecture|training|evaluation|layer)\\b"
+        },
+        {
+          "name": "support.type.modelscript",
+          "match": "\\b(Conv2D|Dense|Flatten|Dropout|MaxPooling2D|LSTM|GRU|BatchNormalization)\\b"
+        },
+        {
+          "name": "support.function.modelscript",
+          "match": "\\b(activation|units|filters|kernel_size|pool_size|rate|padding|input_shape|output_shape)\\b"
+        }
+      ]
+    },
+    "strings": {
+      "name": "string.quoted.double.modelscript",
+      "begin": "\"",
+      "end": "\"",
+      "patterns": [
+        {
+          "name": "constant.character.escape.modelscript",
+          "match": "\\\\."
+        }
+      ]
+    },
+    "numbers": {
+      "patterns": [
+        {
+          "name": "constant.numeric.float.modelscript",
+          "match": "\\b[0-9]+\\.[0-9]+\\b"
+        },
+        {
+          "name": "constant.numeric.integer.modelscript",
+          "match": "\\b[0-9]+\\b"
+        }
+      ]
+    },
+    "model-definition": {
+      "patterns": [
+        {
+          "name": "entity.name.type.class.modelscript",
+          "match": "\\b(model)\\s+([A-Za-z0-9_]+)",
+          "captures": {
+            "1": { "name": "keyword.control.modelscript" },
+            "2": { "name": "entity.name.class.modelscript" }
+          }
+        },
+        {
+          "name": "entity.name.type.layer.modelscript",
+          "match": "\\b(layer)\\s+([A-Za-z0-9_]+)",
+          "captures": {
+            "1": { "name": "keyword.control.modelscript" },
+            "2": { "name": "support.type.modelscript" }
+          }
+        }
+      ]
+    },
+    "property-assignment": {
+      "name": "meta.property-assignment.modelscript",
+      "match": "\\b([A-Za-z0-9_]+)\\s*(:)",
+      "captures": {
+        "1": { "name": "variable.other.property.modelscript" },
+        "2": { "name": "punctuation.separator.key-value.modelscript" }
+      }
+    }
+  }
+} 
