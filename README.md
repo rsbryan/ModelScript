@@ -1,6 +1,6 @@
 # ModelScript
 
-A simple domain-specific language (DSL) for defining machine learning models.
+A domain-specific language (DSL) for defining machine learning models.
 
 ## Overview
 
