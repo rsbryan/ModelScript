@@ -1,0 +1,393 @@
+text,sentiment
+"I love this movie!",1
+"This is the best day ever!",1
+"I am so happy and excited.",1
+"What a wonderful experience.",1
+"The food was delicious and the service was great.",1
+"This product is amazing!",1
+"I had such a fantastic time.",1
+"Everything is perfect today.",1
+"This makes me feel joyful.",1
+"I really enjoy spending time here.",1
+"Great job on this project!",1
+"This is absolutely brilliant.",1
+"I feel so grateful and blessed.",1
+"What an incredible achievement.",1
+"This brings me so much happiness.",1
+"I hate waiting in long lines.",0
+"This is the worst product I have ever bought.",0
+"I am very disappointed.",0
+"The experience was terrible.",0
+"This movie is boring and awful.",0
+"I'm feeling really frustrated today.",0
+"This service is completely unacceptable.",0
+"What a horrible day this has been.",0
+"I regret making this decision.",0
+"This is such a waste of time.",0
+"Everything went wrong today.",0
+"I'm so angry about this situation.",0
+"This is completely disappointing.",0
+"I feel sad and discouraged.",0
+"This has been a terrible experience.",0
+"I love this movie!",1
+"I hate waiting in long lines.",0
+"This is the best day ever!",1
+"This is the worst product I have ever bought.",0
+"I am so happy and excited.",1
+"I am very disappointed.",0
+"What a wonderful experience.",1
+"The experience was terrible.",0
+"The food was delicious and the service was great.",1
+"This movie is boring and awful.",0
+"This product is amazing!",1
+"I'm feeling really frustrated today.",0
+"I had such a fantastic time.",1
+"This service is completely unacceptable.",0
+"Everything is perfect today.",1
+"What a horrible day this has been.",0
+"This makes me feel joyful.",1
+"I regret making this decision.",0
+"I really enjoy spending time here.",1
+"This is such a waste of time.",0
+"Great job on this project!",1
+"Everything went wrong today.",0
+"This is absolutely brilliant.",1
+"I'm so angry about this situation.",0
+"I feel so grateful and blessed.",1
+"This is completely disappointing.",0
+"What an incredible achievement.",1
+"I feel sad and discouraged.",0
+"This brings me so much happiness.",1
+"This has been a terrible experience.",0
+"I am impressed by the new update.",1
+"I am furious about the confusing instructions.",0
+"I really appreciate the helpful advice.",1
+"I hate the missing files.",0
+"I feel blessed by this comfy chair.",1
+"I can't stand the unhelpful staff.",0
+"I love this cozy blanket.",1
+"I am disappointed with the bug infestation.",0
+"I am thrilled with the engaging lesson.",1
+"I am furious about the crashed program.",0
+"I adore this workout.",1
+"I am upset about the tight deadline.",0
+"I could not be happier with the delicious dessert.",1
+"I am sick of this headache.",0
+"I am over the moon about the helpful advice.",1
+"I am annoyed by the constant errors.",0
+"I am blown away by the clear skies.",1
+"I regret the pointless detour.",0
+"I feel blessed by the successful meeting.",1
+"I hate the loud noise.",0
+"I am delighted by the sunny weather.",1
+"I am upset about the power outage.",0
+"I adore the playful puppy.",1
+"I despise the rude reply.",0
+"I am over the moon about our progress.",1
+"I can't stand the traffic jam.",0
+"I love your kindness.",1
+"I am frustrated with the slow internet.",0
+"I really appreciate the quick service.",1
+"I am disappointed with the failed update.",0
+"I feel blessed by the vibrant colors.",1
+"I am annoyed by the dim lighting.",0
+"I am over the moon about the fresh coffee.",1
+"I am furious about the broken app.",0
+"I am thrilled with our vacation.",1
+"I hate the confusing layout.",0
+"I adore the surprising gift.",1
+"I regret the missed opportunity.",0
+"I love the helpful community.",1
+"I am sick of the loud construction.",0
+"I am impressed by the sparkling clean room.",1
+"I can't stand the long commute.",0
+"I really appreciate the friendly staff.",1
+"I am upset about the lost package.",0
+"I am blown away by the cool breeze.",1
+"I despise the tasteless food.",0
+"I adore the vibrant festival.",1
+"I am furious about the constant delays.",0
+"I am thrilled with today's results.",1
+"I am disappointed with the poor service.",0
+"I could not be happier with her performance.",1
+"I hate this mess.",0
+"I feel blessed by your support.",1
+"I am annoyed by the unanswered emails.",0
+"I love the clear skies.",1
+"I am furious about the bug-ridden software.",0
+"I am over the moon about the creative solution.",1
+"I regret the late start.",0
+"I really appreciate the thoughtful gesture.",1
+"I am frustrated with the broken promises.",0
+"I am blown away by the new design.",1
+"I am disappointed with the incomplete report.",0
+"I could not be happier with our progress.",1
+"I can't stand the rude remarks.",0
+"I love the easy instructions.",1
+"I am upset about the missing files.",0
+"I feel blessed by the calm morning.",1
+"I hate the constant spam.",0
+"I am delighted by the lively atmosphere.",1
+"I am annoyed by the tight deadline.",0
+"I adore the delicious dessert.",1
+"I am furious about the repeated failures.",0
+"I really appreciate the detailed feedback.",1
+"I am disappointed with the irresponsible behavior.",0
+"I love the engaging podcast.",1
+"I am sick of the persistent glitches.",0
+"I am blown away by this song.",1
+"I can't stand the leaking faucet.",0
+"I feel blessed by the peaceful silence.",1
+"I hate the confusing interface.",0
+"I am thrilled with the timely delivery.",1
+"I regret buying this device.",0
+"I adore the sweet melody.",1
+"I am annoyed by the crowded room.",0
+"I really appreciate the generous offer.",1
+"I am furious about the dim lighting.",0
+"I am over the moon about the comfy chair.",1
+"I am disappointed with the incorrect order.",0
+"I love the charming décor.",1
+"I can't stand the loud commercials.",0
+"I feel blessed by your encouragement.",1
+"I am upset about the late response.",0
+"I am delighted by the beautiful sunrise.",1
+"I hate the broken screen.",0
+"I really appreciate the constant support.",1
+"I am frustrated with the complicated process.",0
+"I adore the cheerful tune.",1
+"I regret the wasted time.",0
+"I am impressed by the flawless presentation.",1
+"I despise the awful smell.",0
+"I love the fresh flowers.",1
+"I am furious about the incorrect charges.",0
+"I feel blessed by the warm welcome.",1
+"I am disappointed with the slow service.",0
+"I am blown away by the stunning view.",1
+"I am annoyed by the unreliable connection.",0
+"I really appreciate the clear communication.",1
+"I hate the outdated software.",0
+"I adore the colorful artwork.",1
+"I am upset about the poor planning.",0
+"I am thrilled with the new update.",1
+"I despise the messy workspace.",0
+"I am over the moon about the great news.",1
+"I regret the hasty decision.",0
+"I love the soothing music.",1
+"I am sick of the endless paperwork.",0
+"I feel blessed by the gentle breeze.",1
+"I am frustrated with the slow progress.",0
+"I really appreciate the patience shown.",1
+"I am annoyed by the constant noise.",0
+"I adore the friendly atmosphere.",1
+"I am furious about the data loss.",0
+"I am impressed by the innovative idea.",1
+"I can't stand the bland taste.",0
+"I love the cozy atmosphere.",1
+"I am disappointed with the cluttered room.",0
+"I feel blessed by the caring gesture.",1
+"I hate the malfunctioning device.",0
+"I am thrilled with the positive feedback.",1
+"I am upset about the canceled event.",0
+"I adore the beautiful garden.",1
+"I despise the unfair rules.",0
+"I really appreciate the well-organized workshop.",1
+"I am annoyed by the constant interruptions.",0
+"I love the insightful discussion.",1
+"I am furious about the shipping delay.",0
+"I feel blessed by the supportive team.",1
+"I am disappointed with the faulty product.",0
+"I am blown away by the delicious aroma.",1
+"I hate the harsh criticism.",0
+"I am delighted by the festive spirit.",1
+"I am sick of the recurring errors.",0
+"I adore the scenic route.",1
+"I regret the careless mistake.",0
+"I love the crisp morning air.",1
+"I am upset about the noisy neighbors.",0
+"I am over the moon about the project success.",1
+"I am annoyed by the broken elevator.",0
+"I really appreciate the reliable service.",1
+"I despise the constant complaints.",0
+"I feel blessed by the joyful news.",1
+"I can't stand the sticky keyboard.",0
+"I am thrilled with the quick fix.",1
+"I am frustrated with the outdated equipment.",0
+"I adore the sparkling lights.",1
+"I am disappointed with the wrong address.",0
+"I love the inspiring talk.",1
+"I hate the endless waiting.",0
+"I am impressed by the calm demeanor.",1
+"I am furious about the rude comment.",0
+"I really appreciate the fresh perspective.",1
+"I regret the missed deadline.",0
+"I am blown away by the artistic talent.",1
+"I am annoyed by the dusty shelf.",0
+"I feel blessed by the friendly hello.",1
+"I am sick of the constant pop-ups.",0
+"I love the neat solution.",1
+"I am upset about the sudden change.",0
+"I adore the lighthearted joke.",1
+"I despise the glaring mistake.",0
+"I am thrilled with the smooth transaction.",1
+"I am disappointed with the noisy fan.",0
+"I am over the moon about the job offer.",1
+"I hate the dim hallway.",0
+"I really appreciate the chance to learn.",1
+"I am frustrated with the slow cooker.",0
+"I love the tasty snack.",1
+"I am annoyed by the long survey.",0
+"I am blown away by the crisp graphics.",1
+"I regret the expensive purchase.",0
+"I feel blessed by the unexpected compliment.",1
+"I am furious about the empty promise.",0
+"I adore the calm ocean waves.",1
+"I am disappointed with the uneven paint.",0
+"I am thrilled with the personalized gift.",1
+"I hate the heavy traffic.",0
+"I really appreciate the rapid response.",1
+"I am upset about the dropped call.",0
+"I love the intuitive interface.",1
+"I despise the slow checkout line.",0
+"I am over the moon about the birthday surprise.",1
+"I am annoyed by the loud ringtone.",0
+"I feel blessed by the loyal friendship.",1
+"I am sick of the buzzing sound.",0
+"I am impressed by the flawless execution.",1
+"I regret the sloppy work.",0
+"I adore the comfy ambiance.",1
+"I am furious about the spam messages.",0
+"I love the organized workspace.",1
+"I am disappointed with the stale bread.",0
+"I really appreciate the detailed explanation.",1
+"I hate the crude behavior.",0
+"I feel blessed by the loving family.",1
+"I am frustrated with the patchy connection.",0
+"I am over the moon about the clear instructions.",1
+"I am annoyed by the cold dinner.",0
+"I love the gentle rain.",1
+"I can't stand the false advertisement.",0
+"I am impressed by the elegant design.",1
+"I am upset about the leak in the roof.",0
+"I adore the playful kitten.",1
+"I despise the repeated mistakes.",0
+"I am thrilled with the clean interface.",1
+"I am disappointed with the unstable network.",0
+"I really appreciate the fair pricing.",1
+"I hate the constant buffering.",0
+"I feel blessed by the serene scenery.",1
+"I am furious about the misplaced files.",0
+"I love the vibrant colors.",1
+"I am sick of the long queue.",0
+"I adore the fresh aroma of coffee.",1
+"I regret the unnecessary expense.",0
+"I am blown away by the graceful dance.",1
+"I am annoyed by the inconsistent policy.",0
+"I really appreciate the sincere apology.",1
+"I am upset about the broken promise.",0
+"I am thrilled with the familiar melody.",1
+"I despise the cluttered desktop.",0
+"I feel blessed by the gentle snowfall.",1
+"I am disappointed with the flimsy material.",0
+"I love the sparkling water.",1
+"I am frustrated with the outdated method.",0
+"I adore the thoughtful surprise.",1
+"I am furious about the rude driver.",0
+"I am over the moon about the new opportunity.",1
+"I regret the wasted resources.",0
+"I really appreciate the helpful tutorial.",1
+"I hate the pervasive dust.",0
+"I feel blessed by the peaceful garden.",1
+"I am annoyed by the faulty alarm.",0
+"I am blown away by the dynamic performance.",1
+"I am sick of the broken promises.",0
+"I love the joyful celebration.",1
+"I am disappointed with the weak signal.",0
+"I really appreciate the clear roadmap.",1
+"I despise the corrupted file.",0
+"I am impressed by the quick turnaround.",1
+"I am upset about the missing ingredient.",0
+"I adore the elegant solution.",1
+"I hate the rising costs.",0
+"I am thrilled with the positive atmosphere.",1
+"I am annoyed by the persistent cough.",0
+"I feel blessed by the enlightening conversation.",1
+"I am disappointed with the dull presentation.",0
+"I love the latest album.",1
+"I am furious about the billing error.",0
+"I really appreciate the smooth process.",1
+"I regret the unpleasant argument.",0
+"I am over the moon about the strategic win.",1
+"I am sick of the spam calls.",0
+"I adore the creative artwork.",1
+"I hate the sticky floor.",0
+"I am impressed by the crystal-clear audio.",1
+"I am upset about the late shipment.",0
+"I feel blessed by the uplifting message.",1
+"I despise the cloudy water.",0
+"I am thrilled with the polished look.",1
+"I am frustrated with the slow response time.",0
+"I love the welcoming vibe.",1
+"I can't stand the harsh glare.",0
+"I am blown away by the clever idea.",1
+"I am annoyed by the conflicting schedules.",0
+"I really appreciate the organized agenda.",1
+"I am disappointed with the rough texture.",0
+"I adore the graceful swan.",1
+"I regret the canceled plans.",0
+"I feel blessed by the calm atmosphere.",1
+"I am furious about the server crash.",0
+"I love the upgraded features.",1
+"I hate the bitter taste.",0
+"I am impressed by the steady improvement.",1
+"I am upset about the vague instructions.",0
+"I really appreciate the candid feedback.",1
+"I am sick of the messy desk.",0
+"I am over the moon about the grand opening.",1
+"I am annoyed by the blaring horn.",0
+"I adore the fragrant blossoms.",1
+"I despise the narrow seats.",0
+"I am thrilled with the innovative upgrade.",1
+"I regret the awkward silence.",0
+"I feel blessed by the happy memories.",1
+"I am frustrated with the stubborn stains.",0
+"I love the sleek finish.",1
+"I am disappointed with the freezing temperature.",0
+"I really appreciate the balanced opinion.",1
+"I hate the confusing schedule.",0
+"I am blown away by the captivating story.",1
+"I am upset about the lost ticket.",0
+"I adore the shimmering lights.",1
+"I am furious about the broken hinge.",0
+"I feel blessed by the renewed hope.",1
+"I despise the constant nagging.",0
+"I am impressed by the reliable results.",1
+"I regret the boring lecture.",0
+"I love the comforting warmth.",1
+"I am annoyed by the sticky residue.",0
+"I really appreciate the detailed roadmap.",1
+"I am disappointed with the cracked screen.",0
+"I am over the moon about the festive decorations.",1
+"I hate the pointless argument.",0
+"I adore the refreshing breeze.",1
+"I am sick of the constant updates.",0
+"I am thrilled with the fast loading time.",1
+"I am upset about the broken zipper.",0
+"I love the nostalgic scent.",1
+"I despise the gloomy atmosphere.",0
+"I feel blessed by the gentle waves.",1
+"I am frustrated with the clunky controls.",0
+"I really appreciate the seamless integration.",1
+"I am annoyed by the constant buzzing.",0
+"I am blown away by the energetic crowd.",1
+"I hate the cheap materials.",0
+"I am delighted by the bright colors.",1
+"I regret the missed connection.",0
+"I love the silky texture.",1
+"I am furious about the delayed refund.",0
+"I really appreciate the efficient workflow.",1
+"I am disappointed with the dull colors.",0
+"I adore the clever design.",1
+"I am sick of the repetitive tasks.",0
+"I am impressed by the concise summary.",1
+"I am upset about the unreliable service.",0
